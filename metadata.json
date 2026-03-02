@@ -1,0 +1,7 @@
+{
+  "name": "MKM Vize Yönetim Sistemi",
+  "description": "Profesyonel vize takip, randevu yönetimi ve muhasebe otomasyon sistemi.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
